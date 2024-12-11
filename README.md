@@ -12,9 +12,9 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/devsarim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/devsarim" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@devsarim" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="devsarim.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- <h3 align="left">Roblox game programmer, proficient in Luau, industry standard tooling, libraries, frameworks, testing workflows, etc. While utilizing all of these resources, my approach is to start simple, get the game to a playable state, then iterate.
+ <p align="left">Roblox game programmer, proficient in Luau, industry standard tooling, libraries, frameworks, testing workflows, etc. While utilizing all of these resources, my approach is to start simple, get the game to a playable state, then iterate.
 
-I have been on the platform for over 8 years now, I've been developing for over 5 years. I'm grateful for having this opportunity, it's extremely fulfilling and I hope to continue doing this for much longer. Alongside programming, I lead my team at FiveBlox Studios and also practice UI design.</h3>
+I have been on the platform for over 8 years now, I've been developing for over 5 years. I'm grateful for having this opportunity, it's extremely fulfilling and I hope to continue doing this for much longer. Alongside programming, I lead my team at FiveBlox Studios and also practice UI design.</p>
 
  **<h3 align="left">Skills</h3>**
 
